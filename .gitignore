@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.env/
+.venv/
+env/
+venv/
+mlenv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Логи и кеши
+*.log
+.mypy_cache/
+.nox/
+.tox/
+*.cover
+*.pkl
+*.joblib
+
+# coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+*.nbconvert.ipynb
+
