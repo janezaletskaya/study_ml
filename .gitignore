@@ -35,3 +35,4 @@ htmlcov/
 # Jupyter
 *.nbconvert.ipynb
 
+classic_ml/data/nyc-taxi-trip-duration/train.csv
